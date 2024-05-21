@@ -19,17 +19,17 @@ Monetary measures the amount of money a customer has spent within a certain peri
 Customers with higher monetary values are considered more valuable as they contribute a larger amount of revenue to the business.
 
 ==> Value Assessment: Evaluate the value of each customer segment and develop marketing strategies and services tailored to each segment.
-RFM analysis helps businesses gain a deeper understanding of customer purchasing behavior and enables the development of more effective marketing strategies by focusing on optimizing interactions with different customer segments.
+RFM analysis helps businesses gain a deeper understanding of customer purchasing behavior and enables the development of more effective marketing strategies by focusing on optimizing interactions with different customer segments. \
 In this stage of analysis the customer segmentation was done by developing an RFM Model. The RFM (Recency, Frequency, Monetary) analysis is a behavior-based approach grouping customers into segments. It groups the customers on the basis of their previous purchase transactions. In this analysis the customer segment was divided into 11 groups. The groups being :
 
-  Platinum Customers
-  Very Loyal Customers
-  Recent Customers
-  Potential Customers
-  Lost Customers
-  Losing Customers
-  Late Bloomer
-  High Risk Customers
-  Evasive Customers
-  Becoming Loyal
+  Platinum Customers \
+  Very Loyal Customers \
+  Recent Customers \
+  Potential Customers \
+  Lost Customers \
+  Losing Customers \
+  Late Bloomer \
+  High Risk Customers \
+  Evasive Customers \
+  Becoming Loyal \
   Almost lost Customers
