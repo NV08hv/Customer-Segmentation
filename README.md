@@ -33,3 +33,5 @@ In this stage of analysis the customer segmentation was done by developing an RF
   Evasive Customers \
   Becoming Loyal \
   Almost lost Customers
+  ![image](https://github.com/NV08hv/Customer-Segmentation/assets/168745635/ff92a225-3d63-4415-bd86-02ef42e69bf8)
+
